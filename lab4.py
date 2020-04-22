@@ -292,7 +292,7 @@ if t2 < t_tab:
 if t3 < t_tab:
     b3 = 0
     print("t\u2083:", t3, " t\u2083<t_tab; b\u2083=0")
-
+ #рівняння взаємодії
 y_hat = []
 for i in range(N):
     y_hat.append(
